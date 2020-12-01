@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on poplarain</title>
-    <link>xiaofanr.github.io/posts/</link>
+    <link>https://xiaofanr.github.io/posts/</link>
     <description>Recent content in Posts on poplarain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Dec 2020 08:56:18 +0800</lastBuildDate>
-    <atom:link href="xiaofanr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xiaofanr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>xiaofanr.github.io/posts/hello-world/</link>
+      <link>https://xiaofanr.github.io/posts/hello-world/</link>
       <pubDate>Tue, 01 Dec 2020 08:56:18 +0800</pubDate>
-      <guid>xiaofanr.github.io/posts/hello-world/</guid>
+      <guid>https://xiaofanr.github.io/posts/hello-world/</guid>
       <description>&lt;p&gt;Hello, World.&lt;/p&gt;
 </description>
     </item>
