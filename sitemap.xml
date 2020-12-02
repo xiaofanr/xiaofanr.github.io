@@ -3,26 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xiaofanr.github.io/posts/how-i-spend-my-attention/</loc>
+    <lastmod>2020-12-02T20:32:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaofanr.github.io/</loc>
+    <lastmod>2020-12-02T20:32:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaofanr.github.io/posts/</loc>
+    <lastmod>2020-12-02T20:32:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaofanr.github.io/tags/</loc>
+    <lastmod>2020-12-02T20:32:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaofanr.github.io/tags/translation/</loc>
+    <lastmod>2020-12-02T20:32:34+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://xiaofanr.github.io/posts/hello-world/</loc>
     <lastmod>2020-12-01T08:56:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xiaofanr.github.io/</loc>
-    <lastmod>2020-12-01T08:56:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaofanr.github.io/posts/</loc>
-    <lastmod>2020-12-01T08:56:18+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://xiaofanr.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://xiaofanr.github.io/tags/</loc>
   </url>
   
 </urlset>

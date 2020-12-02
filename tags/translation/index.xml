@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on poplarain</title>
-    <link>https://xiaofanr.github.io/posts/</link>
-    <description>Recent content in Posts on poplarain</description>
+    <title>translation on poplarain</title>
+    <link>https://xiaofanr.github.io/tags/translation/</link>
+    <description>Recent content in translation on poplarain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Dec 2020 20:32:34 +0800</lastBuildDate>
-    <atom:link href="https://xiaofanr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xiaofanr.github.io/tags/translation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How I Spend My Attention</title>
@@ -42,15 +42,6 @@
 &lt;p&gt;另一方面，我发现即使在洗碗碟时，也可以更多地注意一些小事情，例如接触水时的感觉。&lt;/p&gt;
 &lt;p&gt;通过用味蕾品味每一滴酒，也可以增强你喝最爱的葡萄酒时的体验。&lt;/p&gt;
 &lt;p&gt;只需多加留意，你便可以拥有更多的生活体验。 你所关注的将是你的生活。 它是如此的基础却让我震惊。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://xiaofanr.github.io/posts/hello-world/</link>
-      <pubDate>Tue, 01 Dec 2020 08:56:18 +0800</pubDate>
-      <guid>https://xiaofanr.github.io/posts/hello-world/</guid>
-      <description>&lt;p&gt;Hello, World.&lt;/p&gt;
 </description>
     </item>
     
